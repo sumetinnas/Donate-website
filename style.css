@@ -1,0 +1,160 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+   font-weight: bolder;
+  
+}
+
+.b-img{
+   background-image: url(images/donation13.jpg);
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+   
+}
+#white{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato ,red);
+    padding: 10px 30px;
+    border-radius: 15px;
+    color: white;
+    font-size: large;
+    
+}
+.donate{
+    margin-top: 5%;
+    text-align: center;
+
+}
+.box{
+    margin-left: 5%;     width: 200px;     padding: 40px ;     border: 5px ;     background-color: whitesmoke;     font-weight: 700;
+    text-align: center;
+    border-radius: 10px;
+}
+#tomato{color: tomato;
+    background-color: tomato;
+    color: aliceblue;
+}
+
+.donate-plan{
+    margin-top: 10%;
+    margin-bottom: 3%;
+    text-align: center;
+    
+}
+.donate-font{
+    font-size: 300%;
+}
+.food-family{
+    background-color: gainsboro;
+    width: 350px;
+    height: 250px; 
+    padding-left: 5%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    margin-left: 6%;
+    border-radius: 5%;
+}
+.Shelter-family{
+    background-color: pink;
+    width: 350px;
+    height: 250px; 
+    padding-left: 5%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    margin-left: 2%;
+}
+.education{
+    background-color: wheat;
+    width: 350px;
+    height: 250px; 
+    padding-left: 5%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    margin-left: 2%;
+
+}
+.img{
+    height: 60vh;
+    margin-left: 20%;
+   
+    margin-top: 20%;
+}
+.donation{
+    margin-left: 10%;
+    
+    margin-top: 7%;
+    
+}
+.img-2{height: 60vh;
+    margin-top: 20%;
+    margin-left: 20%;
+
+
+}
+.suvive{
+    margin-left: 20%;
+    margin-top: 8%;
+}
+
+
+
+.email-box{
+    background-color: grey;
+    width: 350px;
+    height: 40px;
+
+}
+.Subscribe-box{
+    background-color: tomato;
+    width: 100px;
+    height: 40px;
+    margin-left: 60%;
+}
+.contact{
+    background-color: rgb(254, 240, 180);
+    width: 40%;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+    margin-left: 27%;
+
+}
+.contact input{
+    border: none;
+    padding: 9px;
+    border-radius: 3px 0px 3px 3px;
+    background-color: rgb(204, 201, 198);
+    }
+    .contact button{
+        border: none;
+        padding: 9px 20px;
+    border-radius: 0px 3px 3px 0px;
+    margin-left: -2px;
+    background-color: rgb(236, 80, 80);
+    color: white;
+    }
+.footre-con{
+    background-color: black;
+    height: 30vh;
+    color: tomato;
+}
+
+
+
+
+
