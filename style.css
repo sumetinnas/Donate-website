@@ -1,11 +1,12 @@
 body{
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
     margin: 0px;
     padding: 0px;
 }
 
 h1{
    font-weight: bolder;
+   font-size: 230%;
   
 }
 
